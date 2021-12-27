@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "genius-lyrics": "^4.3.5",
+    "genius-lyrics-api": "^3.2.0",
+    "nodemon": "^2.0.15",
+    "song-lyrics-api": "^1.1.0"
+  }
+}
